@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
+  <string name="app_name">Голосовий помічник</string>
+  <string name="cancel">Ні</string>
+  <string name="confirm">Да</string>
+  <string name="content">Голосовий помічник не встановлений, завантажити з Маркета?</string>
+  <string name="title_activity_check">Встановити голосовий помічник</string>
+</resources>

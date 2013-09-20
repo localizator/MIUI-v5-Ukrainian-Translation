@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
+<resources>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="PSButton">OK</string>
+     <string name="PSFail">Не вдається підключитися до ПК</string>
+     <string name="PSMsg">"Якщо ви не можете підключитися до Інтернету через наскрізний інтернет, будь ласка, переконайтеся, що ваші налаштування вашого брандмауера дозволяють цей тип підключення. Наскрізний інтернет підтримує тільки TCP з'єднання, якщо ваш комп'ютер підключається до Інтернету через PPP (наприклад, Dial Up, XDSL, або VPN)."</string>
+     <string name="PSPass">Наскрізний інтернет</string>
+     <string name="PSTitle">Оповіщення</string>
+     <string name="do_not_show_psmsg">"Не показувати наступного разу"</string>
+     <string name="htc_fastboot_summary">Не рекомендується для деяких додатків з Market</string>
+     <string name="htc_fastboot_title">Швидке завантаження</string>
+     <string name="htc_gestures_summary">Включити трьохпальцеві жести від HTC і виключити жести з більшою кількістю пальців</string>
+     <string name="htc_gestures_title">Жести HTC</string>
+     <string name="htc_internet_pt_summary">Підключення до інтернету через PC. Будь ласка вставте USB кабель</string>
+     <string name="htc_internet_pt_title">Наскрізний інтернет</string>
+     <string name="stock_settings">Налаштування пристрою</string>
+</resources>

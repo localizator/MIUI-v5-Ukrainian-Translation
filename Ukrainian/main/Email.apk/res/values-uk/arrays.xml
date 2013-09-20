@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
+<resources>
+     <string-array name="general_preference_auto_advance_summary_array">
+        <item>"Переходити до нового повідомлення після видалення"</item>
+        <item>"Переходити до старого повідомлення після видалення"</item>
+        <item>"Переходити до списку повідомлень після видалення"</item>
+     </string-array>
+     <string-array name="general_preference_text_zoom_summary_array">
+        <item>Дрібний</item>
+        <item>Невеликий</item>
+        <item>Звичайний</item>
+        <item>Великий</item>
+        <item>Величезний</item>
+     </string-array>
+</resources>
